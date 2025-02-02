@@ -28,7 +28,7 @@ module.exports = {
   botname:process.env.BOT_NAME || 'Aviator-Md', 
   caption: process.env.CAPTION || '*•ᴘᴏᴡᴇʀᴇᴅ ʙʏ Aviator²²¹-ᴍᴅ•*',
 
-  sessionId: process.env.SESSION_ID || '',      //======[Put Your Session Id Here]======\\
+  sessionId: process.env.SESSION_ID || 'EAAIrTy1wajoBO1AzdpgvnVzr6wXSfc6go1Un0UQqDbEW4ABRLWuqZCadSdCV5DsNVBkKlnBGNEq4EUMeS677zI3j6ErkQauvhOF4GsJ3FICTEYJWJBQG9yxkQqUD0us9gLmX7KXGlKNtlbsTZBHiLggdKctC8lZCZBPsxa8w4FvNNblrkEzto3oFBLHcZCKbaRA3Kxi9ntPWTIO9m9gCIxZCbtdM4ZD',      //======[Put Your Session Id Here]======\\
   warncount: process.env.WARN_COUNT || '3',
   disablepm: process.env.DISABLE_PM || 'true',
   MsgsInLog:process.env.MSGS_IN_LOG || 'false',
